@@ -12,7 +12,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Directoroxxy | Twitter" width="22px" src="https://x.com/director_oxxy?s=09" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src=" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src=" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/oxxy_lenses?utm_source=qr&igsh=MzNlNGNkZWQ4Mg%3D%3D" />][instagram]
 
 [twitter]: https://x.com/director_oxxy?s=09
